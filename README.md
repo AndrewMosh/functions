@@ -1,3 +1,3 @@
-# module6_homework functions
+# module6_homework
 ## Функции
 ## Выполнил студент группы FR-1010 Мощенко А.А.
